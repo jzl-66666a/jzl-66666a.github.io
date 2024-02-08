@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jzl-66666a.github.io/6a.notebook/courses/</loc>
-         <lastmod>2024-02-08</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://jzl-66666a.github.io/6a.notebook/experience/</loc>
          <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
@@ -21,12 +16,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jzl-66666a.github.io/6a.notebook/natural_science_courses/</loc>
+         <loc>https://jzl-66666a.github.io/6a.notebook/blog/</loc>
          <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jzl-66666a.github.io/6a.notebook/blog/</loc>
+         <loc>https://jzl-66666a.github.io/6a.notebook/courses/</loc>
+         <lastmod>2024-02-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jzl-66666a.github.io/6a.notebook/courses/natural_science_courses/</loc>
          <lastmod>2024-02-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
